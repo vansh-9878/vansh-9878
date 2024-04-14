@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently mastering Web development
+🌱 I'm currently Learning Web development 
